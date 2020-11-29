@@ -11,6 +11,8 @@ body {
   background-position: top center;
 }
 
+
+
 .container {
   max-width: 928px;
   margin: 0 auto;
@@ -186,4 +188,17 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone.svg");
+}
+
+.main-menu li {
+  display: inline-block;
+  margin-right: 5px;
+  font-size: 48px;
+  
+}
+
+.main-menu a {
+  display: block;
+  padding: 8px 10px;
+  color: white;
 }
